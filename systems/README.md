@@ -1,10 +1,6 @@
 # Systems Projects
 
-- [Enterprise Automated Desktop Deployment](https://github.com/hunterraustin/Enterprise-Automated-Desktop-Deployment)
-  Automated Windows desktop imaging and deployment using WDS and MDT.
-- [Ansible Web Server Automation and Bootstrapping](https://github.com/hunterraustin/Ansible-Web-Server-Automation-and-Bootstrapping)
-  Playbooks that provision and configure web servers from a bare install.
-- [IT Asset Management Database](https://github.com/hunterraustin/IT-asset-management-database)
-  SQL schema and queries for tracking IT assets across an environment.
+- [Hands-free Windows deployment with MDT and WDS](https://github.com/hunterraustin/Enterprise-Automated-Desktop-Deployment): PXE-based Windows 10/11 deployment with MDT task sequences served by WDS.
+- [IT asset database](https://github.com/hunterraustin/IT-asset-management-database): MariaDB schema and queries for tracking IT assets across sites.
 
-More systems labs land here as I build them.
+More systems labs go here as I build them.
